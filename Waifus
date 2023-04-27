@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Página Web de Anime Waifus</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#">Inicio</a></li>
+      <li><a href="#">Galería</a></li>
+      <li><a href="#">Contacto</a></li>
+      <li><a href="#">Acerca de</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <h1>Bienvenido a mi Página de Anime Waifus</h1>
+    <p>Esta es una página dedicada a las waifus de anime, con una galería de imágenes y información sobre los personajes que amo.</p>
+    <img src="waifu1.jpg" alt="Imagen de mi waifu favorita">
+    <img src="waifu2.jpg" alt="Imagen de otra waifu">
+    <img src="waifu3.jpg" alt="Otra imagen de waifu">
+  </main>
+</body>
+</html>
